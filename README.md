@@ -42,7 +42,7 @@ All events on March 4th will be held in-person in room `MS.03`.
 | 4th March | 10:15-10:30am | Induction of the theme and objectives         |
 | 4th March | 10:30-11:15am | EDA Workshop                                  |
 | 4th March | 11:15-12:00pm | Visualisation Workshop
-| 4th March | 12:00-1:00pm  | Free pizza                                    |
+| 4th March | 12:00-1:00pm  | Free pizza and drinks                         |
 | 4th March | 1:00-6:00pm   | Hackathon competition in groups               |
 
 ## Competition Details
@@ -75,7 +75,7 @@ Make sure to elaborate on your observations!
 
 ### Submission
 
-Submissions should be sent to [hackathon@wdss.io](mailto:hackathon@wdss.io). We accept any formats!
+Submissions should be sent to [warwickdatasciencesociety@gmail.com](mailto:warwickdatasciencesociety@gmail.com). We accept any formats!
 
 The competition will run from **1pm on Saturday the 4th March** to **6pm on Saturday the 4th March**. No preference will be given to early entrants.
 
@@ -95,7 +95,7 @@ We will assign groups for participants according to the coding levels. There wil
 
 #### I've improved my data story-telling submission since last submitting. Can I resubmit?
 
-No problem. Simply email [hackathon@wdss.io](mailto:hackathon@wdss.io) and explain the situation.
+No problem. Simply email [warwickdatasciencesociety@gmail.com](mailto:warwickdatasciencesociety@gmail.com) and explain the situation.
 
 ### Getting Help
 

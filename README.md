@@ -2,9 +2,9 @@
 
 ## Welcome to the Heartcoding Hackathon
 
-The Heartcoding is designed to be mini "hackathon" for students with varying levels of experience. The focus of the hackathon will be the exploratory data analysis - or as we like to call it data storytelling - of the given love related dataset*. We invite everyone who is interested in data science to participate, regardless of their technical background. This one day hackathon offers an interesting dataset to explore, guidance along the way, and free pizza!
+The Heartcoding is designed to be a mini "hackathon" for students with varying levels of experience. The focus of the hackathon will be the exploratory data analysis - or as we like to call it data storytelling - of the given love related dataset*. We invite everyone who is interested in data science to participate, regardless of their technical background. This one day hackathon offers an interesting dataset to explore, guidance along the way, and free pizza!
 
-**Disclaimer**: This is an EDA and not a ML competition.
+**Disclaimer**: This is an EDA and not a ML competition, but ML solutions are welcomed.
 
 *Dataset will be published on March 4th.
 
@@ -36,13 +36,14 @@ All events on March 4th will be held in-person in room `MS.03`.
 
 *Again, the dataset will be published on March 4th.*
 
-| Date         | Time          | Event                                                 |
-|--------------|---------------|-----------------------------------------------|
-| 16th October | 10:00-10:15am | Arrival and registration |
-| 16th October | 10:15-10:30am | Induction of the theme and objectives         |
-| 16th October | 10:30-11:15am | EDA Workshop                                  |
-| 16th October | 11:15-12:00pm | Free pizza                                    |
-| 23rd October | 1:00-6:00pm   | Hackathon competition in groups               |
+| Date      | Time          | Event                                         |
+|-----------|---------------|-----------------------------------------------|
+| 4th March | 10:00-10:15am | Arrival and registration |
+| 4th March | 10:15-10:30am | Induction of the theme and objectives         |
+| 4th March | 10:30-11:15am | EDA Workshop                                  |
+| 4th March | 11:15-12:00pm | Visualisation Workshop
+| 4th March | 12:00-1:00pm  | Free pizza                                    |
+| 4th March | 1:00-6:00pm   | Hackathon competition in groups               |
 
 ## Competition Details
 

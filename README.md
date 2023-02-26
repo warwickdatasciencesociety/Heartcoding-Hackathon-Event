@@ -70,8 +70,7 @@ Make sure to elaborate on your observations!
 
 - **[Google colab](https://colab.research.google.com/github/warwickdatasciencesociety/olympic-datathon/blob/main/resources/Public_Sample_Notebook_Olympic_Datathon.ipynb#scrollTo=ELA20me2A9nW) skeleton code**. Save a copy in Drive and follow along in the teaching session.
 - **[Data set](https://raw.githubusercontent.com/warwickdatasciencesociety/olympic-datathon/main/dataset/athlete_events.csv)**
-- [Python for Data Science](https://warwickdatasciencesociety.github.io/python-for-data-science/session-one/)  teaching session 1 by WDSS
-- [Tidyverse R basics](https://github.com/warwickdatasciencesociety/into-the-tidyverse) 
+- [Sample Pandas and Matplot lib notebook](https://colab.research.google.com/drive/161cr-98PaHsSW_-BuURWwAo4eYXWHy33?usp=sharing) to be used for the EDA part of the ML notebook
 
 ### Submission
 

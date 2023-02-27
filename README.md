@@ -2,7 +2,7 @@
 
 ## Welcome to the Heartcoding Hackathon
 
-The Heartcoding is designed to be a mini "hackathon" for students with varying levels of experience. The focus of the hackathon will be the exploratory data analysis - or as we like to call it data storytelling - of the given love related dataset*. We invite everyone who is interested in data science to participate, regardless of their technical background. This one day hackathon offers an interesting dataset to explore, guidance along the way, and free pizza!
+The Heartcoding is designed to be a mini "hackathon" for students with varying levels of experience. The focus of the hackathon will be the exploratory data analysis - or as we like to call it data storytelling - of the given *love related dataset*. We invite everyone who is interested in data science to participate, regardless of their technical background. This one day hackathon offers an interesting dataset to explore, guidance along the way, and free pizza!
 
 **Disclaimer**: This is an EDA and not a ML competition, but ML solutions are welcomed.
 
@@ -16,7 +16,7 @@ The Heartcoding is designed to be a mini "hackathon" for students with varying l
   * [Important First Steps](#important-first-steps)
   * [Event Timeline](#event-timeline)
 * [Competition Details](#competition-details)
-  * [Data Story-Telling Question](#data-story-telling-question)
+  * [Competition Guiding Questions](#Competition-Guiding-Questions)
   * [Resources](#resources)
   * [Submission](#submission)
   * [Judging and Winning](#Judging-and-Winning)
@@ -38,16 +38,18 @@ All events on March 4th will be held in-person in room `MS.03`.
 
 | Date      | Time          | Event                                         |
 |-----------|---------------|-----------------------------------------------|
-| 4th March | 10:00-10:15am | Arrival and registration |
+| 4th March | 10:00-10:15am | Arrival and registration                      |
 | 4th March | 10:15-10:30am | Induction of the theme and objectives         |
 | 4th March | 10:30-11:15am | EDA Workshop                                  |
-| 4th March | 11:15-12:00pm | Visualisation Workshop
+| 4th March | 11:15-12:00pm | Visualisation Workshop                        |
 | 4th March | 12:00-1:00pm  | Free pizza and drinks                         |
 | 4th March | 1:00-6:00pm   | Hackathon competition in groups               |
+| 4th March | 6:00-7:00pm   | Refreshment and snack time!                   |
 
 ## Competition Details
 
 ### Competition Guiding Questions
+Will be enable on the 4th March
 
 ### Winning Notebook and Prizes
 
@@ -56,16 +58,15 @@ Stay tuned for the winners on the 4th March! The winning team will receive certi
 ### Sample Notebook Structure
 
 1. Summary statistics
-2. Univariate analysis (e.g. Medal)
-3. Bivariate analysis (e.g. Height vs Weight)
-4. Statistical modelling and inference (If you feel brave enough. This is not part of the EDA!)
+2. EDA
+3. Visualisations
 
 Make sure to elaborate on your observations!
 
 ### Resources
 
-- **[Google colab](https://colab.research.google.com/github/warwickdatasciencesociety/olympic-datathon/blob/main/resources/Public_Sample_Notebook_Olympic_Datathon.ipynb#scrollTo=ELA20me2A9nW) skeleton code**. Save a copy in Drive and follow along in the teaching session.
-- **[Data set](https://raw.githubusercontent.com/warwickdatasciencesociety/olympic-datathon/main/dataset/athlete_events.csv)**
+- [Google colab] Will be enable on the 4th March
+- [Data set] Will be enable on the 4th March
 - [Sample Pandas and Matplot lib notebook](https://colab.research.google.com/drive/161cr-98PaHsSW_-BuURWwAo4eYXWHy33?usp=sharing) to be used for the EDA part of the ML notebook
 
 ### Submission

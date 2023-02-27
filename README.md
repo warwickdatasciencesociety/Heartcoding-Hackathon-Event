@@ -47,15 +47,11 @@ All events on March 4th will be held in-person in room `MS.03`.
 
 ## Competition Details
 
-### Data Story-Telling Question
+### Competition Guiding Questions
 
-1.
-2.
-3.
+### Winning Notebook and Prizes
 
-### Winning notebook and prizes
-
-Stay tuned for the winners on the 4th March! The winning team will receive certificate and WDSS hoodies!
+Stay tuned for the winners on the 4th March! The winning team will receive certificates!
 
 ### Sample Notebook Structure
 

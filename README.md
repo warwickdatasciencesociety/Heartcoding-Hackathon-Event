@@ -48,9 +48,6 @@ All events on March 4th will be held in-person in room `MS.03`.
 
 ## Competition Details
 
-### Competition Guiding Questions
-Will be enable on the 4th March
-
 ### Winning Notebook and Prizes
 
 Stay tuned for the winners on the 4th March! The winning team will receive certificates!
@@ -70,9 +67,9 @@ Make sure to elaborate on your observations!
 - [Sample Pandas and Matplot lib notebook](https://colab.research.google.com/drive/161cr-98PaHsSW_-BuURWwAo4eYXWHy33?usp=sharing) to be used for the EDA part of the ML notebook
 
 ### Submission
-
-Submissions should be sent to [warwickdatasciencesociety@gmail.com](mailto:warwickdatasciencesociety@gmail.com). We accept any formats!
-
+- [Enroll in the submission platform] (https://learn.diceytech.co.uk/courses/course-v1:DiceyTech+DT007+032023/course/)
+- [Guide to submit your project in Dicey Tech] (https://diceytech.notion.site/Heard-Coding-Hackathon-db0207f3b8744bbb8b7c7ea97a231ae4)
+- [Link to confirm your submission] (https://forms.gle/QNCxgjH9CQzPDRNL9)
 The competition will run from **1pm on Saturday the 4th March** to **6pm on Saturday the 4th March**. No preference will be given to early entrants.
 
 ### Judging and Winning

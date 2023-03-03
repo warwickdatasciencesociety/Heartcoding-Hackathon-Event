@@ -50,7 +50,7 @@ All events on March 4th will be held in-person in room `MS.03`.
 
 ### Winning Notebook and Prizes
 
-Stay tuned for the winners on the 4th March! The winning team will receive certificates!
+Stay tuned for the winners on the 4th March! The winning team will receive certificates and have the solutions posted on the WDSS research blog! 
 
 ### Sample Notebook Structure
 

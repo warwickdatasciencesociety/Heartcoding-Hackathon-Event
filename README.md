@@ -62,14 +62,15 @@ Make sure to elaborate on your observations!
 
 ### Resources
 
-- [Google colab] Will be enable on the 4th March
+- [EDA Template](https://colab.research.google.com/drive/1xsUvkxX2ZnKfk4zLo92km2EDLbjO4cOf?authuser=3)
+- [Visualisation Workshop](https://colab.research.google.com/drive/1J1qthFynzi83YdanrRz8PptUUJreg5gG?authuser=3)
 - [Data set] Will be enable on the 4th March
-- [Sample Pandas and Matplot lib notebook] (https://colab.research.google.com/drive/161cr-98PaHsSW_-BuURWwAo4eYXWHy33?usp=sharing) to be used for the EDA part of the ML notebook
+- [Sample Pandas and Matplot lib notebook](https://colab.research.google.com/drive/161cr-98PaHsSW_-BuURWwAo4eYXWHy33?usp=sharing) to be used for the EDA part of the ML notebook
 
 ### Submission
-- [Enroll in the submission platform] (https://warwickdatasciencesociety.github.io/Heartcoding-Hackathon-Event/)
-- [Guide to submit your project in Dicey Tech] (https://diceytech.notion.site/Heard-Coding-Hackathon-db0207f3b8744bbb8b7c7ea97a231ae4)
-- [Link to confirm your submission] (https://forms.gle/QNCxgjH9CQzPDRNL9)
+- [Enroll in the submission platform](https://warwickdatasciencesociety.github.io/Heartcoding-Hackathon-Event/)
+- [Guide to submit your project in Dicey Tech](https://diceytech.notion.site/Heard-Coding-Hackathon-db0207f3b8744bbb8b7c7ea97a231ae4)
+- [Link to confirm your submission](https://forms.gle/QNCxgjH9CQzPDRNL9)
 The competition will run from **1pm on Saturday the 4th March** to **6pm on Saturday the 4th March**. No preference will be given to early entrants.
 
 ### Judging and Winning

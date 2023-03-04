@@ -64,7 +64,7 @@ Make sure to elaborate on your observations!
 
 - [EDA Template](https://colab.research.google.com/drive/1xsUvkxX2ZnKfk4zLo92km2EDLbjO4cOf)
 - [Visualisation Workshop](https://colab.research.google.com/drive/1J1qthFynzi83YdanrRz8PptUUJreg5gG)
-- [Data set] 
+- [Data set](https://raw.githubusercontent.com/warwickdatasciencesociety/Heartcoding-Hackathon-Event/main/Hackathon%20Dataset.csv)
 - [Sample Pandas and Matplot lib notebook](https://colab.research.google.com/drive/161cr-98PaHsSW_-BuURWwAo4eYXWHy33?usp=sharing) to be used for the EDA part of the ML notebook
 
 ### Submission

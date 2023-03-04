@@ -62,9 +62,9 @@ Make sure to elaborate on your observations!
 
 ### Resources
 
-- [EDA Template](https://colab.research.google.com/drive/1xsUvkxX2ZnKfk4zLo92km2EDLbjO4cOf?authuser=3)
-- [Visualisation Workshop](https://colab.research.google.com/drive/1J1qthFynzi83YdanrRz8PptUUJreg5gG?authuser=3)
-- [Data set] Will be enable on the 4th March
+- [EDA Template](https://colab.research.google.com/drive/1xsUvkxX2ZnKfk4zLo92km2EDLbjO4cOf)
+- [Visualisation Workshop](https://colab.research.google.com/drive/1J1qthFynzi83YdanrRz8PptUUJreg5gG)
+- [Data set] 
 - [Sample Pandas and Matplot lib notebook](https://colab.research.google.com/drive/161cr-98PaHsSW_-BuURWwAo4eYXWHy33?usp=sharing) to be used for the EDA part of the ML notebook
 
 ### Submission
